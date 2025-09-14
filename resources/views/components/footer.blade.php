@@ -38,7 +38,6 @@ use App\Models\Blog;
                 </div>
               </div>
             @endforeach
-
           </div>
 
           </div>
@@ -61,7 +60,7 @@ use App\Models\Blog;
                   <ul>
                     <li><span class="icon icon-map-marker"></span><span class="text">House 8, Road 6, Wealthy Place Avenue, Redemption Camp, Ogun State</span></li>
                     <li><a href="#"><span class="icon icon-phone"></span><span class="text">+234-806-936-6384</span></a></li>
-                    <li><a href="#"><span class="icon icon-envelope"></span><span class="text">imfo@inbafoundation.ng</span></a></li>
+                    <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@inbaf.org</span></a></li>
                   </ul>
                 </div>
             </div>
@@ -71,7 +70,7 @@ use App\Models\Blog;
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Built by <a href="" target="_blank">EXQUISITE FRAGRANCE</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Built by <a href="" target="_blank">FRAGRANCE TECH HUB</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>

@@ -23,8 +23,10 @@
     			</div>
     			<div class="col-md-6 pl-md-5 ftco-animate">
     				<h2 class="mb-4">Welcome to Intentional Breed Africare Foundation</h2>
-    				<p>Intentional Breed Africa Foundation (IBAF), established in April 2010, is a youth-focused non-profit. Initially funding exam fees, IBAF now empowers African youth through quality education and global exposure. It's a dynamic force fostering academic, social, and economic growth for a thriving future.</p>
-    				<p>We are committed to helping vulnerable children return to school by providing scholarships, essential supplies, and mentorship. Our programs also focus on building self-esteem and leadership skills among teenagers through engaging workshops and personalized counseling. In addition, we offer vocational training opportunities that equip individuals with practical skills to create sustainable livelihoods.</p>
+    				<p>Intentional Breed Africare Foundation, established in 2010 and officially registered on July 13, 2023, is a Nigeria‑based non-profit organization headquartered in Redeemer’s Camp, Ogun State. The foundation is committed to transforming the lives of vulnerable children and youths through education, mentorship, life skills, and community-driven initiatives .</p>
+    				<p><h3 style="color: #f6035f;">Misson</h3>
+              Mission: Empower vulnerable children to return to school, raise teenagers’ self-esteem, and facilitate sustainable economic growth through skill development and entrepreneurship.
+            </p>
     			</div>
     		</div>
     	</div>

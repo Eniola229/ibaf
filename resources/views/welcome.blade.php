@@ -104,7 +104,7 @@
         <div class="container">
             <div class="row no-gutters">
            <div class="col-md-5 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 color-1 align-items-stretch">
+            <div class="block-18 color-3 align-items-stretch">
               <div class="text">
                 <span>Served Over</span>
                 <strong class="number" data-number="500">0</strong>

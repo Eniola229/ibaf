@@ -55,8 +55,8 @@
                 <li class="nav-item {{ request()->is('about') ? 'active' : '' }}">
                     <a href="{{ url('/about') }}" class="nav-link">About</a>
                 </li>
-                <li class="nav-item {{ request()->is('services') ? 'active' : '' }}">
-                    <a href="{{ url('/services') }}" class="nav-link">Services</a>
+                <li class="nav-item {{ request()->is('what-we-do') ? 'active' : '' }}">
+                    <a href="{{ url('/what-we-do') }}" class="nav-link">What We Do</a>
                 </li>
                 <li class="nav-item {{ request()->is('donate') ? 'active' : '' }}">
                     <a href="{{ url('/donate') }}" class="nav-link">Donate</a>

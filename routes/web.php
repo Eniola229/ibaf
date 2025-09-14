@@ -30,6 +30,10 @@ Route::get('contact', function () {
     return view('contact');
 });
 
+Route::get('what-we-do', function () {
+    return view('service');
+});
+
 
 Route::get('gallery', function () {
     return view('gallery');
